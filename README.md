@@ -1,7 +1,9 @@
 👋 Olá, sou o Diogo
 
 - Estou estudando Python, SQL, Análise de Dados e Power BI.
-- <img src="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
+          
           
 - 
 - Atualmente trabalho como Coordenador de TI e possuo experiência de 10 anos em TI, mas estou 
